@@ -1,4 +1,4 @@
-#author      : [Sonnya Ghandi ](https://github.com/Ghandi-dev)
+-author      : [Sonnya Ghandi ](https://github.com/Ghandi-dev)
 
 ---
 #TUGAS ALGORITMA
